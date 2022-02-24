@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicholasLiporase
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... nicholas.fragoso50@gmail.com or +5521999485066
 
 <!---
